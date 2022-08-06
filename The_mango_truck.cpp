@@ -28,6 +28,7 @@
 // 	return 0;
 // }
 
+// alternate solution
 
 #include <iostream>
 using namespace std;
