@@ -21,7 +21,7 @@ int main() {
 	        if(x+y<=z){
 	            cout<<2<<endl;
 	        }else{
-	            cout<<1<<endl;
+	            cout<<1<<endl;''
 	        }
 	    }else{
 	        cout<<0<<endl;
